@@ -1,7 +1,11 @@
 #!/bin/bash
 
-# Set the GitHub token
-export GITHUB_TOKEN=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
+# Set the GitHub token from environment variable
+if [ -z "$GITHUB_TOKEN" ]; then
+    echo "Error: GITHUB_TOKEN environment variable is not set"
+    echo "Please set it using: export GITHUB_TOKEN=your_token_here"
+    exit 1
+fi
 
 # Configure Git to use the token for HTTPS authentication
 git config --global credential.helper store
