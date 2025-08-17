@@ -54,6 +54,9 @@ githubupdater/
 3. **requirements_poly.txt** - Dependencies for the poly framework
 4. **test_poly_framework.sh** - Test script for the poly framework
 5. **.github/workflows/poly-ci.yml** - GitHub workflow for the poly framework
+6. **run_poly_framework.sh** - Script to run the poly framework with virtual environment
+7. **githubupdater_env/** - Python virtual environment with all dependencies installed
+8. **requirements.txt** - Complete list of dependencies for the virtual environment
 
 ### AI Job Framework Files
 1. **script.py** - AI job finder framework implementation with live job data
@@ -64,6 +67,14 @@ githubupdater/
 6. **script3.py** - Updated AI job framework with Qwen integration
 7. **polymorphic_ai_framework_v2.csv** - Data export from the polymorphic AI framework
 8. **qwen-enhanced-framework.md** - Documentation for the Qwen-enhanced polymorphic framework
+
+### Security and Compliance Files
+1. **comprehensive_setup.sh** - Comprehensive setup script for security and compliance
+2. **create_pull_requests.sh** - Script to create pull requests for security updates
+3. **create_security_files.sh** - Script to create security-related files
+4. **enable_advanced_security.sh** - Script to enable advanced security features
+5. **setup_2fa.sh** - Script to set up two-factor authentication
+6. **setup_cicd.sh** - Script to set up CI/CD pipelines
 
 ## Next Steps
 
