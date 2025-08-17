@@ -48,6 +48,13 @@ githubupdater/
 9. **init_github_repo.sh** - Script to initialize GitHub repository
 10. **manage_repos.sh** - Script to manage all GitHub repositories with bakerstreet concept
 
+### Poly-AI Framework Files
+1. **poly_framework.py** - Core engine for adaptive GitHub workflow automation
+2. **poly_framework.md** - Documentation for the Poly-AI Framework
+3. **requirements_poly.txt** - Dependencies for the poly framework
+4. **test_poly_framework.sh** - Test script for the poly framework
+5. **.github/workflows/poly-ci.yml** - GitHub workflow for the poly framework
+
 ## Next Steps
 
 1. **Create GitHub Repository**:

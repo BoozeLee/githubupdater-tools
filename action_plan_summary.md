@@ -40,6 +40,13 @@ Set up automation scripts for regular updates:
 - `setup_cron.sh`: Script to schedule automatic weekly updates
 - `manage_repos.sh`: Script to manage all GitHub repositories with bakerstreet concept
 
+## 4. Poly-AI Framework
+
+Implemented a deployable polymorphic Linux/AI framework for adaptive GitHub workflow automation:
+- `poly_framework.py`: Core engine that discovers, ranks, and selects tools
+- `poly_framework.md`: Documentation for the framework
+- `.github/workflows/poly-ci.yml`: GitHub workflow for the poly framework
+
 ## 4. Qwen Setup Steps
 
 Created a detailed Qwen setup guide:
