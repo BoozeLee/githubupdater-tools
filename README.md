@@ -25,6 +25,9 @@ A fine-tuned BERT model for sentiment classification using Hugging Face Transfor
 - Preprocess and tokenize text data
 - Train and evaluate machine learning models
 
+### [Qwen Polymorphic Sentiment Analysis](https://github.com/BoozeLee/qwen-polymorphic-sentiment-analysis)
+Advanced sentiment analysis using Codestral with polymorphic research integration. This project incorporates recent breakthroughs in polymorphic malware detection techniques and machine learning methodologies to create a robust sentiment classifier.
+
 ### [Computer Vision Classification](https://github.com/BoozeLee/cv-classification-project)
 A CNN-based image classification system that achieves high accuracy on custom datasets.
 

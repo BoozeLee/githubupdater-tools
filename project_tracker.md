@@ -15,7 +15,18 @@ This file tracks the status of your GitHub projects.
   - Implement model explainability features
   - Deploy as a simple API
 
-### 2. Computer Vision Classification (Planned)
+### 2. Qwen Polymorphic Sentiment Analysis
+- **Status**: In Development
+- **Last Updated**: $(date)
+- **GitHub URL**: https://github.com/BoozeLee/qwen-polymorphic-sentiment-analysis
+- **Description**: Advanced sentiment analysis using Codestral with polymorphic research integration
+- **Technologies**: Python, PyTorch, Hugging Face Transformers, Ollama
+- **Next Steps**:
+  - Train the model on a sentiment analysis dataset
+  - Evaluate performance with polymorphic metrics
+  - Deploy as a simple API
+
+### 3. Computer Vision Classification (Planned)
 - **Status**: Planning
 - **Description**: A CNN-based image classification system
 - **Technologies**: Python, PyTorch, OpenCV
@@ -24,7 +35,7 @@ This file tracks the status of your GitHub projects.
   - Design model architecture
   - Implement training pipeline
 
-### 3. Time Series Forecasting (Planned)
+### 4. Time Series Forecasting (Planned)
 - **Status**: Planning
 - **Description**: An LSTM-based solution for multivariate time series forecasting
 - **Technologies**: Python, PyTorch, Pandas
@@ -52,3 +63,4 @@ This file tracks the status of your GitHub projects.
 - [ ] Read 2-3 recent papers on NLP or computer vision
 - [ ] Contribute to an open-source AI/ML project
 - [ ] Write a blog post about your latest project
+- [ ] Review and update repository management using manage_repos.sh

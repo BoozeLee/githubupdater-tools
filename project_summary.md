@@ -46,6 +46,7 @@ githubupdater/
 7. **setup_cron.sh** - Script to schedule automatic weekly updates
 8. **test_project.sh** - Script to verify project files
 9. **init_github_repo.sh** - Script to initialize GitHub repository
+10. **manage_repos.sh** - Script to manage all GitHub repositories with bakerstreet concept
 
 ## Next Steps
 

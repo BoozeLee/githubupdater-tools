@@ -38,6 +38,7 @@ Set up automation scripts for regular updates:
 - `github_updater.sh`: Script to push updates to GitHub
 - `weekly_update.sh`: Script for weekly project updates
 - `setup_cron.sh`: Script to schedule automatic weekly updates
+- `manage_repos.sh`: Script to manage all GitHub repositories with bakerstreet concept
 
 ## 4. Qwen Setup Steps
 
