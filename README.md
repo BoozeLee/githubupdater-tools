@@ -66,6 +66,21 @@ The framework uses mathematical foundations including linear algebra, graph theo
 - Select the most appropriate workflow based on environment variables
 - Continuously adapt to changes in the open-source ecosystem
 
+## 💼 AI Job Framework
+
+The repository also contains a comprehensive AI job framework that helps identify and apply for high-paying AI/ML opportunities:
+
+- **Live Job Scraping**: Finds current AI job opportunities across multiple platforms
+- **Intelligent Filtering**: Prioritizes jobs with immediate payment and high-value skills
+- **Automated Applications**: Generates customized proposals for top opportunities
+- **Qwen Integration**: Leverages the latest Qwen models for AI development projects
+
+### Key Components
+
+1. **Job Finder Scripts** (`script.py`, `script2.py`, `script3.py`): Multiple implementations of the job finding framework
+2. **Documentation** (`ai-job-framework.md`, `qwen-enhanced-framework.md`): Comprehensive guides for using the framework
+3. **Data Exports** (`ai_jobs_live_results.csv`, `ai_job_applications_ready.csv`): Exported job data and applications
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, interesting problems, or just having a chat about AI/ML. Feel free to reach out!

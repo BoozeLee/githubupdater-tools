@@ -55,6 +55,16 @@ This file tracks the status of your GitHub projects.
   - Collect sample data
   - Design model architecture
 
+### 6. Qwen-Assisted Sentiment Analysis (Active)
+- **Status**: In Development
+- **Last Updated**: $(date)
+- **Description**: A sentiment analysis classifier using Qwen3-Coder for code generation
+- **Technologies**: Python, Qwen3-Coder, PEW-MCAB Framework
+- **Next Steps**:
+  - Complete the 7-day implementation roadmap
+  - Deploy to GitHub with comprehensive documentation
+  - Apply for related AI development projects
+
 ## Completed Projects
 
 (None yet - your first project will be listed here after completion)
@@ -79,3 +89,5 @@ This file tracks the status of your GitHub projects.
 - [ ] Create a simple workflow in n8n for GitHub automation
 - [ ] Extend the Poly-AI framework with additional tool APIs
 - [ ] Implement polymorphic code mutation techniques in the framework
+- [ ] Apply for high-value AI jobs using the Qwen-enhanced framework
+- [ ] Complete the 7-day Qwen-assisted sentiment analysis project

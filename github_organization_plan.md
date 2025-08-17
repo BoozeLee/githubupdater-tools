@@ -53,6 +53,11 @@ Each repository should have a comprehensive README with:
 - Regularly review repository status and update as needed
 - Ensure all repositories follow the bakerstreet concept of organization and documentation
 
+### 7. AI Job Framework
+- Use the AI job framework to identify high-value opportunities for AI/ML projects
+- Apply for Qwen integration projects to showcase expertise with latest AI models
+- Complete the 7-day sentiment analysis project using the roadmap in `qwen-enhanced-framework.md`
+
 ## Recommended Actions
 
 ### Immediate Actions

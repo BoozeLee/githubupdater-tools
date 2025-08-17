@@ -47,6 +47,14 @@ Implemented a deployable polymorphic Linux/AI framework for adaptive GitHub work
 - `poly_framework.md`: Documentation for the framework
 - `.github/workflows/poly-ci.yml`: GitHub workflow for the poly framework
 
+## 5. AI Job Framework
+
+Developed a comprehensive AI job framework to identify and apply for high-paying AI/ML opportunities:
+- `script.py`, `script2.py`, `script3.py`: Multiple implementations of the job finding framework
+- `ai-job-framework.md`, `qwen-enhanced-framework.md`: Documentation for the framework
+- `ai_jobs_live_results.csv`, `ai_job_applications_ready.csv`: Exported job data and applications
+- Integration with latest Qwen models for AI development projects
+
 ## 4. Qwen Setup Steps
 
 Created a detailed Qwen setup guide:

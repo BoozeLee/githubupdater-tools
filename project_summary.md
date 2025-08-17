@@ -55,6 +55,16 @@ githubupdater/
 4. **test_poly_framework.sh** - Test script for the poly framework
 5. **.github/workflows/poly-ci.yml** - GitHub workflow for the poly framework
 
+### AI Job Framework Files
+1. **script.py** - AI job finder framework implementation with live job data
+2. **ai_jobs_live_results.csv** - Live results from AI job searches
+3. **script2.py** - Advanced AI job framework with automation and filtering
+4. **ai_job_applications_ready.csv** - Generated job applications ready for submission
+5. **ai-job-framework.md** - Documentation for the AI job expert framework
+6. **script3.py** - Updated AI job framework with Qwen integration
+7. **polymorphic_ai_framework_v2.csv** - Data export from the polymorphic AI framework
+8. **qwen-enhanced-framework.md** - Documentation for the Qwen-enhanced polymorphic framework
+
 ## Next Steps
 
 1. **Create GitHub Repository**:
