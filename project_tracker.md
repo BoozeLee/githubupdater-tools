@@ -64,3 +64,5 @@ This file tracks the status of your GitHub projects.
 - [ ] Contribute to an open-source AI/ML project
 - [ ] Write a blog post about your latest project
 - [ ] Review and update repository management using manage_repos.sh
+- [ ] Explore and experiment with the installed polymorphic toolkits (mkpoly, polymorph)
+- [ ] Create a simple workflow in n8n for GitHub automation
