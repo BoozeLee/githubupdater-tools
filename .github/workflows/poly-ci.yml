@@ -1,0 +1,19 @@
+name: Poly-AI-Automation
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 2 * * 1'
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Install dependencies
+        run: pip install PyGithub numpy requests
+      - name: Dynamically find and rank tools
+        run: python3 poly_framework.py
+      - name: Install top tools (demo)
+        run: echo "Install top tools as shown above"

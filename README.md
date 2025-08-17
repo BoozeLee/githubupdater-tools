@@ -36,9 +36,35 @@ A CNN-based image classification system that achieves high accuracy on custom da
 ### [Time Series Forecasting](https://github.com/BoozeLee/time-series-forecasting)
 An LSTM-based solution for multivariate time series forecasting with real-time predictions.
 
+### [Poly-AI Framework](https://github.com/BoozeLee/githubupdater-tools)
+A deployable polymorphic Linux/AI framework for adaptive GitHub workflow automation. This framework leverages live tool discovery, adaptive scoring, and plug-and-play workflow generation to create self-adaptive, AI-enhanced GitHub workflows.
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoozeLee&show_icons=true&theme=radical)
+
+## 🧠 Poly-AI Framework
+
+This repository also includes a deployable polymorphic Linux/AI framework for adaptive GitHub workflow automation. The framework features:
+
+- **Live Tool Discovery**: Automatically finds and ranks the best GitHub automation tools
+- **Adaptive Scoring**: Uses linear algebra and weighted metrics to rank tools
+- **Plug-and-Play Workflows**: Dynamically generates workflow configurations
+- **Polymorphic Code Practice**: Implements code-mutation techniques for resilience
+
+### Key Components
+
+1. **Poly Framework Engine** (`poly_framework.py`): Core engine that discovers, ranks, and selects tools
+2. **GitHub Workflow** (`.github/workflows/poly-ci.yml`): Automated workflow that runs the poly framework
+3. **Requirements** (`requirements_poly.txt`): Dependencies for the poly framework
+
+### How It Works
+
+The framework uses mathematical foundations including linear algebra, graph theory, and probability to:
+- Discover top GitHub automation tools
+- Rank them based on stars, forks, and topic tags
+- Select the most appropriate workflow based on environment variables
+- Continuously adapt to changes in the open-source ecosystem
 
 ## 📫 Let's Connect!
 

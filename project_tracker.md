@@ -26,7 +26,18 @@ This file tracks the status of your GitHub projects.
   - Evaluate performance with polymorphic metrics
   - Deploy as a simple API
 
-### 3. Computer Vision Classification (Planned)
+### 3. Poly-AI Framework
+- **Status**: In Development
+- **Last Updated**: $(date)
+- **GitHub URL**: https://github.com/BoozeLee/githubupdater-tools
+- **Description**: A deployable polymorphic Linux/AI framework for adaptive GitHub workflow automation
+- **Technologies**: Python, GitHub API, Linear Algebra, Probability & Statistics
+- **Next Steps**:
+  - Implement additional tool APIs
+  - Add machine learning for adaptive optimization
+  - Incorporate polymorphic code mutation techniques
+
+### 4. Computer Vision Classification (Planned)
 - **Status**: Planning
 - **Description**: A CNN-based image classification system
 - **Technologies**: Python, PyTorch, OpenCV
@@ -35,7 +46,7 @@ This file tracks the status of your GitHub projects.
   - Design model architecture
   - Implement training pipeline
 
-### 4. Time Series Forecasting (Planned)
+### 5. Time Series Forecasting (Planned)
 - **Status**: Planning
 - **Description**: An LSTM-based solution for multivariate time series forecasting
 - **Technologies**: Python, PyTorch, Pandas
@@ -66,3 +77,5 @@ This file tracks the status of your GitHub projects.
 - [ ] Review and update repository management using manage_repos.sh
 - [ ] Explore and experiment with the installed polymorphic toolkits (mkpoly, polymorph)
 - [ ] Create a simple workflow in n8n for GitHub automation
+- [ ] Extend the Poly-AI framework with additional tool APIs
+- [ ] Implement polymorphic code mutation techniques in the framework
