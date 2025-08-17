@@ -81,6 +81,10 @@ The repository also contains a comprehensive AI job framework that helps identif
 2. **Documentation** (`ai-job-framework.md`, `qwen-enhanced-framework.md`): Comprehensive guides for using the framework
 3. **Data Exports** (`ai_jobs_live_results.csv`, `ai_job_applications_ready.csv`): Exported job data and applications
 
+## 📄 License
+
+This project is licensed under the Bakerstreet Restricted Project License - see the [LICENSE](LICENSE) file for details.
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new opportunities, interesting problems, or just having a chat about AI/ML. Feel free to reach out!
